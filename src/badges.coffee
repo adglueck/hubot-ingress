@@ -43,6 +43,7 @@ badgeList = [
   'exo5',
   'exo-five1','exo-five2','exo-five3',
   'explorer1', 'explorer2', 'explorer3', 'explorer4', 'explorer5',
+  'first-saturday1', 'first-saturday2', 'first-saturday3', 'first-saturday4', 'first-saturday5',
   'founder',
   'goruck',
   'goruck-stealth',
@@ -77,7 +78,7 @@ badgeList = [
   'nl-1331-2016',
   'nl-1331e-2017',
   'nl-1331e',
-  'nl-1131-meetup1','nl-1131-meetup2','nl-1131-meetup3','nl-1131-meetup4','nl-1131-meetup5',
+  'nl-1331-meetup1','nl-1331-meetup2','nl-1331-meetup3','nl-1331-meetup4','nl-1331-meetup5',
   'nl-prime',
   'nla-2017',
   'nlprime-2017',
@@ -144,6 +145,11 @@ badgeNameUpdateMap = {
   'p-a-chapeau-2': 'p-a-chapeau-2016'
   'susanna-moyer1': 'susanna-moyer'
   'susanna-moyer2': 'susanna-moyer-2016'
+  'nl-1131-meetup1': 'nl-1331-meetup1'
+  'nl-1131-meetup2': 'nl-1331-meetup2'
+  'nl-1131-meetup3': 'nl-1331-meetup3'
+  'nl-1131-meetup4': 'nl-1331-meetup4'
+  'nl-1131-meetup5': 'nl-1331-meetup5'
 }
 
 colorList= {
@@ -182,6 +188,7 @@ badgeTypes = {
   'exo5': 1,
   'exo-five': 3,
   'explorer': 5,
+  'first-saturday': 5,
   'founder': 1,
   'goruck': 1,
   'goruck-stealth': 1,
