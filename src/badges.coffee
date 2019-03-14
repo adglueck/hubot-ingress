@@ -132,7 +132,7 @@ badgeList = [
   'via-noir'
 ]
 
-badgeNameUpdateVersion = 1
+badgeNameUpdateVersion = 2
 
 badgeNameUpdateMap = {
   'ada-1': 'ada'
@@ -232,7 +232,7 @@ badgeTypes = {
   'nl-1331-2016': 1,
   'nl-1331e-2017': 1,
   'nl-1331e': 1,
-  'nl-1131-meetup': 5,
+  'nl-1331-meetup': 5,
   'nl-prime': 1,
   'nla-2017': 1,
   'nlprime-2017': 1,
