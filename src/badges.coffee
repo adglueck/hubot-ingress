@@ -35,6 +35,7 @@ badgeList = [
   'cassandra-prime',
   'connector1', 'connector2', 'connector3', 'connector4', 'connector5',
   'darsana',
+  'darsana-prime',
   'devra-bogdanovich',
   'devra-2017',
   'edgar-allan-wright',
@@ -59,7 +60,7 @@ badgeList = [
   'illuminator1', 'illuminator2', 'illuminator3', 'illuminator4','illuminator5',
   'initio',
   'innovator1', 'innovator2', 'innovator3', 'innovator4', 'innovator5'
-  'intelops',
+  'intel-ops1', 'intel-ops2', 'intel-ops3', 'intel-ops4', 'intel-ops5',
   'interitus',
   'jahan',
   'jarvis-prime-2018',
@@ -90,7 +91,8 @@ badgeList = [
   'obsidian',
   'operationclearfield',
   'operationclearfield-2018',
-  'oprlive',
+  'operation-clearfield1', 'operation-clearfield2', 'operation-clearfield3', 'operation-clearfield4', 'operation-clearfield5'
+  'opr-live1', 'opr-live2', 'opr-live3', 'opr-live4', 'opr-live5',
   'osiris',
   'ouroboros1',
   'ouroboros2',
@@ -103,12 +105,12 @@ badgeList = [
   'p-a-chapeau', 'p-a-chapeau-2016',
   'persepolis',
   'pioneer1', 'pioneer2', 'pioneer3', 'pioneer4', 'pioneer5',
-  'prime',
-  'primechallenge',
+  'prime-challenge1', 'prime-challenge2', 'prime-challenge3', 'prime-challenge4',
   'purifier1', 'purifier2', 'purifier3', 'purifier4', 'purifier5',
   'recharger1', 'recharger2', 'recharger3', 'recharger4', 'recharger5',
   'recon1','recon2','recon3','recon4','recon5',
   'recursion',
+  'recursion-prime',
   'recruiter0', 'recruiter1', 'recruiter2', 'recruiter3', 'recruiter4', 'recruiter5',
   'sage1','sage2','sage3','sage4','sage5',
   'seer1', 'seer2', 'seer3', 'seer4', 'seer5',
@@ -116,6 +118,7 @@ badgeList = [
   'simulacrum',
   'sojourner1', 'sojourner2', 'sojourner3', 'sojourner4', 'sojourner5',
   'specops1', 'specops2', 'specops3', 'specops4', 'specops5',
+  'stealthops1', 'stealthops2', 'stealthops3', 'stealthops4', 'stealthops5',
   'stella-vyctory',
   'susanna-moyer',
   'susanna-moyer-2016',
@@ -150,6 +153,11 @@ badgeNameUpdateMap = {
   'nl-1131-meetup3': 'nl-1331-meetup3'
   'nl-1131-meetup4': 'nl-1331-meetup4'
   'nl-1131-meetup5': 'nl-1331-meetup5'
+  'prime': 'recursion-prime'
+  'primechallenge': 'prime-challenge1'
+  'operationclearfield-2018': 'operationclearfield1'
+  'oprlive': 'opr-live1'
+  'intelops': 'intel-ops1'
 }
 
 colorList= {
@@ -180,6 +188,7 @@ badgeTypes = {
   'cassandra-prime': 1,
   'connector': 5,
   'darsana': 1,
+  'darsana-prime': 1,
   'devra-bogdanovich': 1,
   'devra-2017': 1,
   'edgar-allan-wright': 1,
@@ -204,7 +213,7 @@ badgeTypes = {
   'illuminator': 5,
   'initio': 1,
   'innovator': 5,
-  'intelops': 1,
+  'intel-ops': 5,
   'interitus': 1,
   'jahan': 1,
   'jarvis-prime-2018': 1,
@@ -235,7 +244,8 @@ badgeTypes = {
   'obsidian': 1,
   'operationclearfield': 1,
   'operationclearfield-2018': 1,
-  'oprlive': 1,
+  'operation-clearfield': 5,
+  'opr-live': 5,
   'osiris': 1,
   'ouroboros': 5,
   'pachapeau-2017': 1,
@@ -245,12 +255,12 @@ badgeTypes = {
   'p-a-chapeau-2016': 1,
   'persepolis': 1,
   'pioneer': 5,
-  'prime': 1,
-  'primechallenge': 1,
+  'prime-challenge': 4,
   'purifier': 5,
   'recharger': 5,
   'recon': 5,
   'recursion': 1,
+  'recursion-prime': 1,
   'recruiter': 6,
   'sage': 5,
   'seer': 5,
