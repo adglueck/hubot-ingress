@@ -76,6 +76,12 @@ the new emojis (and remove the old ones) so that they look correct in Slack:
 * p-a-chapeau-2 -> p-a-chapeau-2016
 * susanna-moyer1 -> susanna-moyer
 * susanna-moyer2 -> susanna-moyer-2016
+* nl-1131-meetup# -> nl-1331-meetup#
+* prime -> recursion-prime'
+* primechallenge -> prime-challenge1
+* operationclearfield-2018 -> operationclearfield1
+* oprlive -> opr-live1
+* intelop -> intel-ops1
 
 ## Commands
 
